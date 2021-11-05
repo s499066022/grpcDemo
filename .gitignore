@@ -1,5 +1,5 @@
 .idea/
 *.exe
-*.pb.go
-*.pb.gw.go
+# *.pb.go
+# *.pb.gw.go
 *.swagger.json
